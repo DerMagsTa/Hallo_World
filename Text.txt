@@ -1,7 +1,9 @@
-Hallo Welt,
+﻿Hallo Welt,
 
 ich teste jetzt mal Git.
 
 Hier ist die erste Änderung.
 
 Ob das hier Sinn ergibt?
+
+Das ist eine Änderung vom PC.
