@@ -1,5 +1,5 @@
 Hallo Welt,
 
-ich teste jetzt mal Github.
+ich teste jetzt mal Git.
 
 Hier ist die erste Änderung.
